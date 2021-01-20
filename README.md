@@ -18,10 +18,8 @@
 <!-- 📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions! -->
 
  <img alt="Night Coding" width="350" src="https://i0.wp.com/i.giphy.com/media/ZVik7pBtu9dNS/giphy-downsized.gif?w=770&ssl=1" align="right"/>
- 
- <br>
- <br>
- <br>
+
+
 ### 🛠 &nbsp;Tech Stack
 
 <!-- ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;  -->
@@ -30,6 +28,8 @@
 ![Laravel](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)
+
+ <br>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
