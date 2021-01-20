@@ -2,7 +2,6 @@
 
 # Nayeem M. Muzahid
 
-<hr>
 <br>
 
 ### 👨🏻‍💻 &nbsp;About Me
