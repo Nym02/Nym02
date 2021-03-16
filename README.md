@@ -10,7 +10,7 @@
 
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
 🎓 &nbsp;I have graduated from North South University.\
-🌱 &nbsp;I'm on track for learning more about Data Science, React, React Native.\
+🌱 &nbsp;I'm on track for learning more about React.\
 ✍️ &nbsp;I have a little interest in Graphic Design & UI/UX Design.\
 ✉️ &nbsp;You can shoot me an email at nayeem.muzahid@northsouth.edu! I'll try to respond as soon as I can.
 
